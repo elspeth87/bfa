@@ -8,11 +8,9 @@
 
 A map of the town of Bramblestead in the realm of Epria.
 
-<!---
 ### [📌 Midsummer Fair](./Summer-fair.png)
 
 A map of the layout for the Midsummer fair in Bramblestead.
--->
 
 ### [📌 Epria](./Epria.jpg)
 
