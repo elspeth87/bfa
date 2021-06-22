@@ -8,3 +8,10 @@ Maps gathered by the players for the campaign.
 ## [📅 CALENDAR](./months-and-holidays.md)
 
 A calendar showing the months and holidays for Epria. 
+
+<!---
+## [🛡 ICONOGRAPHY](./ICONS/ICONS.md)
+
+Icons, symbols and crests from around Epria. 
+
+-->
