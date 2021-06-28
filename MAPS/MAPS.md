@@ -4,6 +4,14 @@
 
 ---
 
+<!---
+
+### [📌 Emerrane Pass](./Emerrane-Pass.jpg)
+
+A map of the Emerrane Pass, including Epria and The New Land.
+
+-->
+
 ### [📌 Epria](./Epria.jpg)
 
 A map of the realm of Epria, from the Teal Coast to the Dead Highlands.
