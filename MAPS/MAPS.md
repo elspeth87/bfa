@@ -30,6 +30,14 @@ A map of the town of Bramblestead in the realm of Epria.
 
 A map of the layout for the Midsummer fair in Bramblestead.
 
+<!--- 
+### [📌 Klalport](./Klalport.png)
 
+A map of Klalport, the main port in Epria. 
+-->
 
+<!---
+### [📌 Cairngate.png](./Cairngate.png)
 
+A map of Cairngate, the capital of Epria. 
+-->
