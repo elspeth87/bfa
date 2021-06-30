@@ -1,4 +1,4 @@
-# BRAMBLESTEAD
+# BFA; BIG FUCKING ADVENTURE
 A D&D Campaign
 
 ## [📌 MAPS](./MAPS/MAPS.md)
@@ -12,6 +12,6 @@ A calendar showing the months and holidays for Epria.
 <!---
 ## [🛡 ICONOGRAPHY](./ICONS/ICONS.md)
 
-Icons, symbols and crests from around Epria. 
+Icons, symbols and crests. 
 
 -->
