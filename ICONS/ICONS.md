@@ -39,11 +39,10 @@
 
 -->
 
-<!---
+
 
 ## 🛡 Symbols
 
--->
 <!---
 ### Burrowforge
 
@@ -128,8 +127,6 @@
 ### Thistlegrace
 
 -->
-<!---
+
 
 ![Thistlegrace](./THISTLEGRACE-LOGO-ICON.png)
-
--->
