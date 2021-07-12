@@ -16,11 +16,12 @@ A map of the Emerrane Pass, including Epria and The New Land.
 
 A map of the realm of Epria, from the Teal Coast to the Dead Highlands.
 
-<!---
+
+
 ### [📌 Lisle Hills](./LISLE-HILLS.jpg)
 
 A map of the area around the Lisle Hills and Bramblestead. 
--->
+
 
 ### [📌 Bramblestead](./bramblestead.jpeg)
 
