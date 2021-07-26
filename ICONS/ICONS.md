@@ -85,16 +85,10 @@
 ![Hogbottle](./HOGBOTTLE-LOGO-ICON.png)
 
 -->
-<!---
 
 ### Nickles
 
--->
-<!---
-
 ![Nickles](./NICKLES-LOGO-ICON.png)
-
--->
 <!---
 
 ### Rindure
