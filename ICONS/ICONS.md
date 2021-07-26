@@ -89,6 +89,8 @@
 ### Nickles
 
 ![Nickles](./NICKLES-LOGO-ICON.png)
+
+
 <!---
 
 ### Rindure
@@ -99,16 +101,12 @@
 ![Rindure](./RINDURE-LOGO-ICON.png)
 
 -->
-<!---
 
 ### Rosedew
 
--->
-<!---
 
 ![Rosedew](./ROSEDEW-LOGO-ICON.png)
 
--->
 
 ### Thistlegrace
 
