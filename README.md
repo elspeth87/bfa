@@ -16,3 +16,7 @@ Icons, symbols and crests.
 ## [📚 BOOKS](./BOOKS/BOOKS.md)
 
 Books, books, lots of lovely books. 
+
+## [🐶 DRUIDIC BEASTS](./DRUID-BEASTS.md)
+
+A list of the beasts that Ermahgerd can use **Wild Shape** to turn into. 
