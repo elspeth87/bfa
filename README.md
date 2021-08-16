@@ -12,3 +12,7 @@ A calendar showing the months and holidays for Epria.
 ## [🛡 ICONOGRAPHY](./ICONS/ICONS.md)
 
 Icons, symbols and crests. 
+
+## [📚 BOOKS](./BOOKS/BOOKS.md)
+
+Books, books, lots of lovely books. 
