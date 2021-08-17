@@ -6,10 +6,10 @@
 
 ## SONGS
 
-### [🎭 The Sunset's Claw](./CULTURE/SUNSETS-CLAW.md)
+### [🎭 The Sunset's Claw](./SUNSETS-CLAW.md)
 
 ---
 
 ## LETTERS
 
-### [🎭 Kelemvor's Temple Letter](./CULTURE/KELEMVORS-TEMPLE-LETTER.md)
+### [🎭 Kelemvor's Temple Letter](./KELEMVORS-TEMPLE-LETTER.md)
