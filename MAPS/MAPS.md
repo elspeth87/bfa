@@ -16,7 +16,9 @@ A map of the Emerrane Pass, including Epria and The New Land.
 
 A map of the realm of Epria, from the Teal Coast to the Dead Highlands.
 
+### [📌 Astrilton](./Astrilton.png)
 
+A map of the town of Astrilton in the realm of Epria.
 
 ### [📌 Lisle Hills](./LISLE-HILLS.jpg)
 
