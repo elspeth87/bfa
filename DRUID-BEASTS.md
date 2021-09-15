@@ -111,3 +111,15 @@ Below is a list of the creatures Ermahgerd can turn into using Wild Shape.
 #### Actions
 
 **Bite.** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.
+
+### Quipper
+
+[Stats](https://www.dndbeyond.com/monsters/quipper)
+
+**Blood Frenzy.** The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+**Water Breathing.** The quipper can breathe only underwater.
+
+#### Actions
+
+**Bite.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
