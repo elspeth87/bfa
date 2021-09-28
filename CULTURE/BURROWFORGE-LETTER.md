@@ -1,5 +1,9 @@
 # BURROWFORGE LETTER
 
+[BACK](./CULTURE.md)
+
+---
+
 > 8 Eleasis 1355
 > Cairngate
 > 
@@ -17,9 +21,9 @@
 > 
 > Yours faithfully, 
 > 
-> Brylwyn
+> *Brylwyn*
 > 
 > Burrowforge House
 
-![Burrowforge](../IMAGES/BURROWFORGE-LOGO-ICON.png)
+![Burrowforge](../ICONS/BURROWFORGE-LOGO-ICON.png)
 

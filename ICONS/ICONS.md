@@ -36,15 +36,13 @@
 
 ## 🛡 Symbols
 
-<!---
+
 ### Burrowforge
 
--->
-<!---
 
 ![Burrowforge](./BURROWFORGE-LOGO-ICON.png)
 
--->
+
 <!---
 
 ### Eraroth

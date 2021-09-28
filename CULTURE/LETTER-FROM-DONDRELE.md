@@ -1,5 +1,8 @@
 # LETTER-FROM-DONDRELE
 
+[BACK](./CULTURE.md)
+
+---
 
 > 10 Eleasis 1355
 > Bramblestead
@@ -16,6 +19,6 @@
 > 
 > Gratefully yours, 
 > 
-> Dondrele
+> *Dondrele*
 > 
 > Lady Dondrele of the town of Bramblestead 
