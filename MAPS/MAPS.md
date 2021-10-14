@@ -16,6 +16,10 @@ A map of the Emerrane Pass, including Epria and The New Land.
 
 A map of the realm of Epria, from the Teal Coast to the Dead Highlands.
 
+### [📌 The East Road (Part 1)](./East-Road-Cairngate-to-Bramblestead.jpg)
+
+A map of the East Road, from Cairngate through to Bramblestead. 
+
 ### [📌 Astrilton](./Astrilton.png)
 
 A map of the town of Astrilton in the realm of Epria.
@@ -40,7 +44,7 @@ A map of Klalport, the main port in Epria.
 -->
 
 <!---
-### [📌 Cairngate.png](./Cairngate.png)
+### [📌 Cairngate.png](./cairngate.png)
 
 A map of Cairngate, the capital of Epria. 
 -->
