@@ -25,3 +25,5 @@
 ### [🎭 Burrowforge Letter (8 Eleasis 1355)](./BURROWFORGE-LETTER.md)
 
 ### [🎭 Letter from Dondrele (10 Eleasis 1355)](./LETTER-FROM-DONDRELE.md)
+
+### [🎭 Letter from Amas Larentansel (13 Eleasis 1355)](./LETTER-FROM-AMAS-LARENTANSEL.md)
