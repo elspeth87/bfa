@@ -43,5 +43,5 @@ A map of the layout for the Midsummer fair in Bramblestead.
 A map of Klalport, the main port in Epria. 
 -->
 
-### [📌 Cairngate](./cairngate.png)
+### [📌 Cairngate](./CAIRNGATE.png)
 A map of Cairngate, the capital of Epria. 
