@@ -36,43 +36,44 @@
 
 ## 🛡 Symbols
 
+### The Merchants Court
 
-### Burrowforge
-
+#### Burrowforge
 
 ![Burrowforge](./BURROWFORGE-LOGO-ICON.png)
 
-
-<!---
-
-### Eraroth
-
--->
-<!---
-
-![Eraroth](./ERAROTH-LOGO-ICON.png)
-
--->
-<!---
-
-### Firmoon
-
--->
-<!---
+#### Firmoon
 
 ![Firmoon](./FIRMOON-LOGO-ICON.png)
 
--->
-<!---
-
-### Hardpride
-
--->
-<!---
+#### Hardpride
 
 ![Hardpride](./HARDPRIDE-LOGO-ICON.png)
 
--->
+#### Rindure
+
+![Rindure](./RINDURE-LOGO-ICON.png)
+
+#### Rosedew
+
+![Rosedew](./ROSEDEW-LOGO-ICON.png)
+
+
+### Other Merchants
+
+
+#### Eraroth
+
+![Eraroth](./ERAROTH-LOGO-ICON.png)
+
+#### Nickles
+
+![Nickles](./NICKLES-LOGO-ICON.png)
+
+#### Thistlegrace
+
+![Thistlegrace](./THISTLEGRACE-LOGO-ICON.png)
+
 <!---
 
 ### Hogbottle
@@ -83,31 +84,3 @@
 ![Hogbottle](./HOGBOTTLE-LOGO-ICON.png)
 
 -->
-
-### Nickles
-
-![Nickles](./NICKLES-LOGO-ICON.png)
-
-
-<!---
-
-### Rindure
-
--->
-<!---
-
-![Rindure](./RINDURE-LOGO-ICON.png)
-
--->
-
-### Rosedew
-
-
-![Rosedew](./ROSEDEW-LOGO-ICON.png)
-
-
-### Thistlegrace
-
-
-
-![Thistlegrace](./THISTLEGRACE-LOGO-ICON.png)
