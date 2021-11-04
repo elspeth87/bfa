@@ -4,7 +4,9 @@
 
 ---
 
-## SONGS
+## SONGS & STORIES
+
+### [🎭 How The Highlands Died](./HOW-THE-HIGHLANDS-DIED.md)
 
 ### [🎭 The Sunset's Claw](./SUNSETS-CLAW.md)
 

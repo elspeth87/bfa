@@ -64,7 +64,7 @@ First published in Cairngate in 158 DR
 > 
 > They saw the garden as something to be shaped and molded rather than something which was already complete. And as they tried to change it to their own ideals, the garden tried to fight back. But it was just a garden and not used to the extreme violence and reckless destruction wrought by the people. 
 > 
-> Slowly, the garden died. It withered beneath the angry hands of the people who sought to shape ot for themselves, who couldn't see the beauty that was already there. 
+> Slowly, the garden died. It withered beneath the angry hands of the people who sought to shape it for themselves, who couldn't see the beauty that was already there. 
 > 
 > But the garden wasn't done fighting. With its last breath, the garden shook the world, pushing mountains from the ground and toppling the buildings of men. 
 > 

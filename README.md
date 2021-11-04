@@ -13,9 +13,12 @@ A calendar showing the months and holidays for Epria.
 
 Icons, symbols and crests. 
 
+<!---
+
 ## [📚 BOOKS](./BOOKS/BOOKS.md)
 
 Books, books, lots of lovely books. 
+-->
 
 ## [🐶 DRUIDIC BEASTS](./DRUID-BEASTS.md)
 
