@@ -22,4 +22,4 @@
 > 
 > Burrowforge House
 
-![Burrowforge Logo](../IMAGES/BURROWFORGE-LOGO-ICON.png)
+![Burrowforge](../ICONS/BURROWFORGE-LOGO-ICON.png)
