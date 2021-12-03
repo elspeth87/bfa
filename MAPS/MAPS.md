@@ -4,13 +4,16 @@
 
 ---
 
-### [📌 Emerrane Pass](./Emerrane-Pass-Countries.jpg)
+### [📌 Astrilton](./Astrilton.png)
 
-A map of the Emerrane Pass, including Epria and The New Land.
+A map of the town of Astrilton in the realm of Epria.
 
-### [📌 Epria](./Epria.jpg)
+### [📌 Bramblestead](./bramblestead.jpeg)
 
-A map of the realm of Epria, from the Teal Coast to the Dead Highlands.
+A map of the town of Bramblestead in the realm of Epria.
+
+### [📌 Cairngate](./CAIRNGATE.png)
+A map of Cairngate, the capital of Epria. 
 
 ### [📌 The East Road (Part 1)](./East-Road-Cairngate-to-Bramblestead.jpg)
 
@@ -20,26 +23,22 @@ A map of the East Road, from Cairngate through to Bramblestead.
 
 A map of the East Road, from Bramblestead to Klalport. 
 
-### [📌 Astrilton](./Astrilton.png)
+### [📌 Emerrane Pass](./Emerrane-Pass-Countries.jpg)
 
-A map of the town of Astrilton in the realm of Epria.
+A map of the Emerrane Pass, including Epria to the edge of the Mynpawa Ocean. 
 
-### [📌 Lisle Hills](./LISLE-HILLS.jpg)
+### [📌 Epria](./Epria.jpg)
 
-A map of the area around the Lisle Hills and Bramblestead. 
-
-
-### [📌 Bramblestead](./bramblestead.jpeg)
-
-A map of the town of Bramblestead in the realm of Epria.
-
-### [📌 Midsummer Fair](./Summer-fair.png)
-
-A map of the layout for the Midsummer fair in Bramblestead.
+A map of the realm of Epria, from the Teal Coast to the Dead Highlands.
 
 ### [📌 Klalport](./Klalport.png)
 
 A map of Klalport, the main port in Epria. 
 
-### [📌 Cairngate](./CAIRNGATE.png)
-A map of Cairngate, the capital of Epria. 
+### [📌 Lisle Hills](./LISLE-HILLS.jpg)
+
+A map of the area around the Lisle Hills and Bramblestead. 
+
+### [📌 Midsummer Fair](./Summer-fair.png)
+
+A map of the layout for the Midsummer fair in Bramblestead.
